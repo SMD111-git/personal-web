@@ -1,0 +1,66 @@
+body{
+      margin: 0%;
+      text-align: center;
+      margin:0 auto 0 auto;
+      font-family: Verdana, Arial, Helvetica, Tahoma, sans-serif;
+      background-color: #00FFF6;
+}
+h1{
+    margin: 0%;
+    font-family: 'Rubik Vinyl', cursive;
+    font-size:50px;
+}
+h1:hover{
+    color:yellow;
+}
+h1{
+    background-color:#00FFF6;
+    padding: 30px;
+}
+.mid{
+    height: 450px;
+    width: 100px;
+
+}
+.bottom-cloud{
+    position:relative;
+    bottom: 40px;
+    left: 900px;
+}
+.b{
+    text-align: center;
+    position: relative;
+    bottom: 40px;
+    right:30px;
+
+}
+.b:hover{
+    color:red;
+}
+.mount{
+    position:relative;
+    right: 50px;
+    bottom: 100px;
+    align-items: center;
+
+
+}
+.top-cloud{
+    position: relative;
+    bottom:150px;
+    right:300px;
+
+
+}
+.pro{
+    text-decoration:underline;
+}
+.top{
+    background-color:#00FFF6;
+}
+.DEVOPS{
+    width:15%;
+}
+.o{
+    width:15%;
+}
